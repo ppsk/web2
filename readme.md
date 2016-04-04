@@ -1,39 +1,25 @@
-# Web Praha
+# Web Slovensko
 
-Nový web Pirátů v Praze. Web je zamýšlen pro celé krajské sdružení - zastupitele (magistrát i mč), veřejnost, členy i pracovníky. Náhled je k dispozici na: http://pirati-cz.github.io/webpraha2/
-
-Toto readme je čistě technické a metodické.
-
+Web pro vznikajici Piratskou stranu na Slovensku.
 
 ## Funkcionality
 
 Celý web bude vyvíjen agilně, čili spustíme první funkční verzi. Mnoho textů, designových prvků se ještě jistě bude měnit.
-
-Věci, které jsou hotové (pro verzi 1):
-
-- technologie (jekyll, template etc.)
-- design
-- články
-  - výpis
-  - paginace
-- mailchimp integrace
+Prebirame funkcionality z https://github.com/pirati-cz/webpraha2
 
 TODO:
-
-- integrace Disqus
+- z webu "Praha" udelat web "Slovensko"
 
 
 ## Náhled a kompilace
 
-Stránka je k vidění na `http://pirati-cz.github.io/webpraha2/`,
+Stránka je k vidění na `http://ppsk.github.io/web2/`,
 lokálně je třeba kompilovat: `jekyll serve --baseurl ''`
 
 
 ## Standardizace tagů
 
-Městské části: praha-1, praha-2, ..., praha-10, ..., praha-22, praha-Běchovice, ...
-
-Praha jako celek: Praha, ZHMP
+TBD
 
 
 ## Adresařova struktura
